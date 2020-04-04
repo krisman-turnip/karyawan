@@ -23,7 +23,7 @@ $this->load->view('layout');
                     echo '<option value="'.$rows->kode.'">'.$rows->jabatan.'</option>';
                     }
                     ?>
-                </select>
+                </select> 
 				</div>
 			</div>
 			<div class="form-group">
